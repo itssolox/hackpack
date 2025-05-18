@@ -1,0 +1,41 @@
+{
+  "6994528708": {
+    "points": 3,
+    "referrals": [
+      "5937217262",
+      "6401749218",
+      "5010778910"
+    ],
+    "withdrawn": true,
+    "referrer": null,
+    "email": null,
+    "awaitingEmail": true
+  },
+  "7796598050": {
+    "points": 0,
+    "referrals": [],
+    "withdrawn": false,
+    "referrer": "7796598050",
+    "email": null
+  },
+  "5937217262": {
+    "points": 0,
+    "referrals": [],
+    "withdrawn": false,
+    "referrer": "6994528708",
+    "email": null
+  },
+  "6401749218": {
+    "points": 0,
+    "referrals": [],
+    "withdrawn": false,
+    "referrer": "6994528708",
+    "email": null
+  },
+  "5010778910": {
+    "points": 0,
+    "referrals": [],
+    "withdrawn": false,
+    "referrer": "6994528708"
+  }
+}
