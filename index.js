@@ -4,9 +4,11 @@ const path = require('path');
 
 // === CONFIGURATION ===
 const TOKEN = '7944845382:AAFhsH134GXxpi-nhDDi9XPJgAJx0sfhA6o';
-const CHANNEL_ID = '-1002504022731';
-const CHANNEL_LINK = 'https://t.me/+VkOO74Nh2oBiOTE1';
+const CHANNEL_ID = '-1002514383107';
+const CHANNEL_LINK = 'https://t.me/+R6pGAMcriew0NjBl';
 const OWNER_ID = '6994528708';
+
+
 const DATA_FILE = path.join(__dirname, 'users.json');
 const MIN_REFERRALS_TO_WITHDRAW = 2;
 const BOT_USERNAME = 'method_free_robot';
