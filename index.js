@@ -4,8 +4,8 @@ const path = require('path');
 
 // === CONFIGURATION ===
 const TOKEN = '7944845382:AAFhsH134GXxpi-nhDDi9XPJgAJx0sfhA6o';
-const CHANNEL_ID = '-1002508047613';
-const CHANNEL_LINK = 'https://t.me/+eSmVlY8za7NiOGNl';
+const CHANNEL_ID = '-1002658211908';
+const CHANNEL_LINK = 'https://t.me/+nxkG_bA_-9o0YmM1';
 const OWNER_ID = '6994528708';
 
 
